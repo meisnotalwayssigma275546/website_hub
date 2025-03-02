@@ -22,7 +22,6 @@ body {
 }
 
 h1 {
-    text-decoration: none;
     background: linear-gradient(to right, rgb(68, 0, 255), rgb(255, 149, 0));
     background-clip: text;
     color: transparent;
@@ -40,8 +39,9 @@ h1 {
     box-shadow: 40px 0 100px 30px red, -40px 0 100px 30px blue;
     transition: transform 0.3s ease, color 0.3s ease;
     position: relative;
-    cursor: pointer;
+    white-space: nowrap; /* Prevent text from wrapping */
 }
+
 
 
 

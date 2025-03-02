@@ -22,6 +22,7 @@ body {
 }
 
 h1 {
+    text-decoration: none;
     background: linear-gradient(to right, rgb(68, 0, 255), rgb(255, 149, 0));
     background-clip: text;
     color: transparent;

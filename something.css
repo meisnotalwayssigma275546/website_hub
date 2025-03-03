@@ -31,11 +31,8 @@ h1 {
     border-radius: 25px;
     text-align: center;
     padding: 20px;
+    font-size: 5vw;
     font-family: "Alfa Slab One";
-    transform: scale(1);
-    width: 350px;
-    font-size: 10vw;
-    height: 500px;
     margin-bottom: 30px;
     box-shadow: 40px 0 100px 30px red, -40px 0 100px 30px blue;
     transition: transform 0.3s ease, color 0.3s ease;

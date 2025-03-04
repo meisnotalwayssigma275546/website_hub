@@ -32,7 +32,6 @@ h1 {
     padding: 20px;
     font-size: 5vw;
     font-family: "Alfa Slab One";
-    margin-bottom: 30px;
     box-shadow: 40px 0 100px 30px red, -40px 0 100px 30px blue;
     transition: transform 0.3s ease, color 0.3s ease;
     position: relative;

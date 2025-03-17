@@ -37,7 +37,7 @@ h1 {
     transition: transform 0.3s ease, color 0.3s ease;
     position: relative;
     cursor: pointer;
-    margin-top: 1050px;
+    margin-top: 950px;
 }
 
 
@@ -215,3 +215,31 @@ h2{
     background-color: white;
     width: 999px;
 }
+
+img{
+    width: 52px;
+    height: 52px;
+}
+
+div {
+    position: relative;
+    border: none;
+    border-radius: 25px;
+    text-align: center;
+    padding: 20px;
+    font-family: "Alfa Slab One";
+    color: transparent;
+    background-color: black;
+    background-clip: text;
+    width: 270px;
+    backdrop-filter: blur(10px);
+    transition: transform 0.3s ease, color 0.3s ease;
+    cursor: pointer;
+    display: inline-block;
+    text-decoration: none;
+    text-align: center;
+    margin-top: 5px;
+    z-index: 1;
+}
+
+
